@@ -4,4 +4,4 @@ applications:
   memory: 512M
   host: seminardemo
   buildpack: java_buildpack
-  path: target/seminardemo-0.1.0.jar
+  path: seminardemo-0.1.0.jar
